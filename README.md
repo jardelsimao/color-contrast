@@ -174,7 +174,3 @@ The demo includes:
 MIT © 2026 Jardel Simão
 
 ---
-
-<p align="center">
-  <sub>Built with ☕ and the firm belief that accessibility is not optional.</sub>
-</p>
